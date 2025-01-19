@@ -1,0 +1,16 @@
+
+<suite name="CRM automation suite">
+
+    <test name="CRM test Cases">
+    
+    <classes>
+       
+           # <class name="com.crm.qa.testcases.ContactsPageTest"></class>
+            #<class name="com.crm.qa.testcases.HomePageTest"></class>
+            <class name="com.crm.qa.testcases.LoginPageTest"></class>
+            </classes>
+   
+       
+    </test>
+
+</suite>
