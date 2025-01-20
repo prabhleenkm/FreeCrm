@@ -1,0 +1,9 @@
+Git
+
+Git init
+Git add Remote origin<url>
+Git status
+Git add. (complete folder will be pushed) or git add homepage.java
+Git status
+Git commit -m "comment"
+Git push origin master
