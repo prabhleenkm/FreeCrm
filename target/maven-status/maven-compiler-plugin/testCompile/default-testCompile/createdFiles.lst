@@ -1,3 +1,1 @@
-com\crm\qa\testcases\HomePageTest.class
-com\crm\qa\testcases\ContactsPageTest.class
-com\crm\qa\testcases\LoginPageTest.class
+com\crm\qa\testcases\SearchPage.class
